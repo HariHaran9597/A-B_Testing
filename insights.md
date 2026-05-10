@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This A/B test evaluated whether introducing a discounted annual subscription plan could increase conversion rates for a B2C SaaS company without sacrificing revenue quality. The experiment ran for 2 weeks across ~8,000 users and produced compelling, statistically robust results supporting a ship decision.
+This simulated A/B test evaluated whether introducing a discounted annual subscription plan could increase conversion rates for a B2C SaaS company without sacrificing revenue quality. The generated experiment data covers 2 weeks across ~8,000 users and produced statistically robust results supporting a staged rollout recommendation.
 
 ---
 
@@ -54,13 +54,13 @@ This A/B test evaluated whether introducing a discounted annual subscription pla
 ### Effect Sizes
 - **Conversion lift:** 1.76 percentage points (absolute), 18.4% (relative)
 - **Revenue uplift:** $0.73 per visitor (22.3% relative)
-- **Practical significance:** Both economically meaningful
+- **Practical significance:** Both meaningful within the simulated business scenario
 
 ---
 
-## Business Impact Projection
+## Scenario Impact Projection
 
-**Assuming 10,000 new users/month:**
+**Simulated scenario assuming 10,000 new users/month:**
 
 | Metric | Monthly | Annual |
 |--------|---------|--------|
@@ -111,7 +111,7 @@ This A/B test evaluated whether introducing a discounted annual subscription pla
 2. Robust to uncertainty (95% CI excludes zero)
 3. Revenue per visitor increased meaningfully
 4. High experiment power (89%) reduces false positive risk
-5. Economically material impact (~$88K annual revenue)
+5. Scenario projection indicates material revenue upside under the simulation assumptions
 
 ### Implementation Plan
 
@@ -157,4 +157,4 @@ This A/B test evaluated whether introducing a discounted annual subscription pla
 
 ## Conclusion
 
-This A/B test demonstrates that a discounted annual plan is an effective lever for increasing conversion and revenue. The results are statistically robust and economically meaningful. Proceed with confident confidence in a staged rollout, with vigilant monitoring of renewal rates and customer satisfaction to ensure long-term value delivery.
+This simulated A/B test demonstrates how to evaluate a pricing change using statistical rigor and business guardrails. The results support a staged rollout recommendation under the project assumptions, with renewal rates and customer satisfaction treated as required follow-up metrics.

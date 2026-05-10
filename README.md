@@ -1,9 +1,9 @@
 # A/B Testing & Decision Science — Pricing Experiment
 
-A complete statistical analysis of a pricing strategy A/B test for a B2C SaaS company, demonstrating experiment design, rigorous hypothesis testing, and data-driven decision making. **Result: +1.76 pp conversion lift (p = 0.002), +22.3% revenue uplift.**
+A complete statistical analysis of a simulated pricing strategy A/B test for a B2C SaaS company, demonstrating experiment design, rigorous hypothesis testing, and data-driven decision making. **Result: +1.76 pp conversion lift (p = 0.002), +22.3% revenue uplift.**
 
 ## Problem Statement
-A SaaS company is evaluating whether introducing a discounted annual subscription plan can increase paid conversions without negatively impacting revenue quality.
+A simulated SaaS experiment evaluates whether introducing a discounted annual subscription plan can increase paid conversions without negatively impacting revenue quality.
 
 **Goal:** Make a clear ship/no-ship decision using controlled experimentation, statistical rigor, and business reasoning.
 
@@ -25,6 +25,7 @@ A SaaS company is evaluating whether introducing a discounted annual subscriptio
 - Product type: B2C SaaS
 - Current pricing: Monthly subscription only
 - Proposed change: Discounted annual subscription option
+- Data source: synthetic experiment data generated in the project notebooks for statistical analysis practice
 
 This decision has high business impact because pricing changes affect both
 customer acquisition and long-term revenue.
